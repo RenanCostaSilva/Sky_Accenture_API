@@ -6,10 +6,10 @@
 Teste para vaga de desenvolvedor mobile sênior para a empresa accenture e o cliente na Época era a SKY
 
 ## Imagens da Aplicação
-![mobile 1](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/1.png)
-![mobile 2](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/2.png)
-![mobile 3](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/3.png)
-![mobile 4](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/4.png)
+![mobile 1](https://github.com/RenanCostaSilva/Sky_Accenture_API/blob/master/imagem1.jpg)
+![mobile 1](https://github.com/RenanCostaSilva/Sky_Accenture_API/blob/master/imagem2.jpg)
+![mobile 1](https://github.com/RenanCostaSilva/Sky_Accenture_API/blob/master/imagem3.jpg)
+![mobile 1](https://github.com/RenanCostaSilva/Sky_Accenture_API/blob/master/imagem4.jpg)
 
 ## SDK
 minSdk: 24 / alvo: 33
