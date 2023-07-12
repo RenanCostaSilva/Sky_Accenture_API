@@ -23,7 +23,7 @@ minSdk: 24 / alvo: 33
 - MVVM
 
 ### Injeção de Dependência
-Koin
+Não houve necessidade de uso
 
 ### UI
 ViewModel (LiveData)
