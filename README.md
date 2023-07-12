@@ -1,45 +1,44 @@
-# Accenture-Sky
-<h3>Telas do Aplicativo</h3>
-<div >
-<img src="https://i.imgur.com/TrK3Jky.png"  width="220" height="403"/>
-<img src="https://i.imgur.com/CoVren2.png"  width="220" height="403"/>
-<img src="https://i.imgur.com/ziheWq1.png"  width="220" height="403"/>
-<img src="https://i.imgur.com/icRhNtM.png"  width="220" height="403"/>
-</div>
+# Sky Accenture
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RenanCostaSilva/Camera2/blob/main/LICENSE)
 
-<p> Observações </p>
-<ol>
-<li>Não utilizei injeção de dependência(Koin ou hilt) por que não houve a necessidade para este teste</li>
-<li>Utilizei LiveData apenas para mostrar que era possível mas tem não havia a necessidade</li>
-<li>Utilizei a API do "TheMovieDB" , pois a API do "Rapidapi" não consegui configurar e não tive respostas de como configurar</li>
-<li>Utilizei a API do "TheMovieDB" , pois a API do "Rapidapi" não consegui configurar e não tive respostas de como configurar</li>
-<li>Utilizei apenas activity mas poderia ter usado fragmente> Não utilizei por questão de escolha.</li>
-<li>Não utilizei teste únitário como Junit por falta de conhecimento , de teste em android. Mas já usei usando Junit con jenkins e sonarqb para web</li>
-</ol>
 
-<div>
-  Jetpack usado:</br>
-  Ativity , Appcompat , databinding , lifecycle , constraintlayout , constraintlayout(Gridview)
-</div>
-</p>
+# Sobre o aplicativo
+Teste para vaga de desenvolvedor mobile sênior para a empresa accenture e o cliente na Época era a SKY
 
-<p>
-<div>
-  Imagem:</br>
-  picasso , glide
-</div>
-</p>
+## Imagens da Aplicação
+![mobile 1](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/1.png)
+![mobile 2](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/2.png)
+![mobile 3](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/3.png)
+![mobile 4](https://github.com/RenanCostaSilva/BancoCarrefour/blob/master/4.png)
 
-<p>
-<div>
-  Consumo API:</br>
-  retrofit2 , gson
-</div>
-</p>
+## SDK
+minSdk: 24 / alvo: 33
 
-<p>
-<div>
-  API:</br>
-  TheMoviewDB
-</div>
-</p>
+## Tecnologias Utilizadas
+
+### Linguagem
+- Kotlin
+
+### Arquitetura
+- MVVM
+
+### Injeção de Dependência
+Koin
+
+### UI
+ViewModel (LiveData)
+
+### Jetpack
+- dataBinding
+- AppCompatActivity
+
+## Teste
+Testado no emulador
+
+## Sistema Operacional
+Windows 10
+
+# Autor
+Renan Costa e Silva
+
+https://www.linkedin.com/in/renan-costa-e-silva-39218a124/
