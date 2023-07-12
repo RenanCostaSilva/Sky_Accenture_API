@@ -1,5 +1,5 @@
 # Sky Accenture
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RenanCostaSilva/Camera2/blob/main/LICENSE)
+[![NPM](https://github.com/RenanCostaSilva/Sky_Accenture_API/blob/master/LICENSE)
 
 
 # Sobre o aplicativo
