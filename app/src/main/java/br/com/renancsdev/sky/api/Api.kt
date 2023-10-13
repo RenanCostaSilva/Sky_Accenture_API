@@ -7,7 +7,6 @@ import retrofit2.http.Query
 
 interface Api {
 
-    //@GET("/users")
     @GET("3/movie/popular")
     fun pegarFilmesMaisPopulares(@Query("api_key") apiKey: String): Call<Result>
 
