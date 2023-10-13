@@ -3,7 +3,7 @@
 
 
 # Sobre o aplicativo
-Teste para vaga de desenvolvedor mobile sênior para a empresa accenture e o cliente na Época era a SKY
+Teste para vaga de desenvolvedor mobile sênior para a empresa accenture e o cliente na época era a SKY
 
 ## Imagens da Aplicação
 ![mobile 1](https://github.com/RenanCostaSilva/Sky_Accenture_API/blob/master/imagem1.jpg)
@@ -12,7 +12,7 @@ Teste para vaga de desenvolvedor mobile sênior para a empresa accenture e o cli
 ![mobile 1](https://github.com/RenanCostaSilva/Sky_Accenture_API/blob/master/imagem4.jpg)
 
 ## SDK
-minSdk: 24 / alvo: 33
+minSdk: 24 / alvo: 34
 
 ## Tecnologias Utilizadas
 
