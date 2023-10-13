@@ -30,7 +30,6 @@ class Chamada(var context: Context , var binding: ActivityMainBinding) {
                 }
             }
             override fun onFailure(call: Call<Result>, t: Throwable) {
-                binding.flSkyFilmesLoading.esconder()
                 Log.e("Repository", "${t.message}")
                 Toast.makeText(context , "Failed to get response" , Toast.LENGTH_SHORT).show()
             }
@@ -43,10 +42,7 @@ class Chamada(var context: Context , var binding: ActivityMainBinding) {
             check = true
         }else{
             Log.e("App", "${resposta.errorBody().toString()}")
-            Toast.makeText(context , "${resposta.code()}" , Toast.LENGTH_SHORT).show()
-            if(resposta.code() == 404){
-                Toast.makeText(context , "Endpoint (users) não foi encontrado" , Toast.LENGTH_SHORT).show()
-            }
+            Toast.makeText(context , "${resposta.errorBody().toString()}" , Toast.LENGTH_SHORT).show()
         }
 
         return check

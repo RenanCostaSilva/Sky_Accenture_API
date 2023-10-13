@@ -11,8 +11,7 @@ class GlideImagem {
     fun glideParaImagemView(context: Context, url: String, imagem: ImageView){
         Glide.with(context)
             .load("https://image.tmdb.org/t/p/w500${url}")
-            //.circleCrop()
-            //.apply(RequestOptions.bitmapTransform(RoundedCorners(10) ))
+            .apply(RequestOptions.bitmapTransform(RoundedCorners(10) ))
             .into(imagem)
     }
 

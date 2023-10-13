@@ -85,7 +85,6 @@ class DetalheFilmes : AppCompatActivity() {
     }
 
 
-
     // Classes
     fun iniciarInstancias(){
 
