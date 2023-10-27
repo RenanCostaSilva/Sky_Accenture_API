@@ -41,4 +41,4 @@ Windows 10
 # Autor
 Renan Costa e Silva
 
-https://www.linkedin.com/in/renan-costa-e-silva-39218a124/
+https://www.linkedin.com/in/renan-costa-e-silva/
